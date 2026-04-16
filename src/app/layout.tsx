@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Lonely Index",
+  title: "ひとりじゃないよ",
   description: "スマホが孤独を数値化し、手遅れになる前に社会が動く",
 };
 

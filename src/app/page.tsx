@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <div className="flex flex-1 flex-col items-center justify-center gap-8 p-8">
       <div className="text-center">
-        <h1 className="text-4xl font-bold text-primary mb-2">Lonely Index</h1>
+        <h1 className="text-4xl font-bold text-primary mb-2">ひとりじゃないよ</h1>
         <p className="text-lg text-zinc-500">
           スマホが孤独を数値化し、手遅れになる前に社会が動く
         </p>

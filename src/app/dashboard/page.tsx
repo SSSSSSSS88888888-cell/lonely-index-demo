@@ -207,7 +207,7 @@ export default function DashboardPage() {
       {/* Header */}
       <header className="bg-primary text-white px-6 py-4 flex items-center justify-between">
         <div>
-          <h1 className="text-xl font-bold">Lonely Index Dashboard</h1>
+          <h1 className="text-xl font-bold">ひとりじゃないよ Dashboard</h1>
           <p className="text-sm opacity-70">株式会社サンプル</p>
         </div>
         <div className="flex items-center gap-4">

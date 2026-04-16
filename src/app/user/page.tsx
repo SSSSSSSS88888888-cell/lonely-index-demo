@@ -144,7 +144,7 @@ export default function UserPage() {
         <div className="bg-primary px-5 pt-12 pb-6 text-white rounded-b-3xl">
           <div className="flex items-center justify-between mb-6">
             <div className="flex items-center gap-2">
-              <h1 className="text-xl font-bold">Lonely Index</h1>
+              <h1 className="text-xl font-bold">ひとりじゃないよ</h1>
               <span className={`w-2 h-2 rounded-full bg-green-400 ${pulse ? "animate-ping" : ""}`} />
             </div>
             <span className="text-sm opacity-70">LIVE</span>
